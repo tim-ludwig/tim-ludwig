@@ -1,6 +1,6 @@
 ### hello world
 
-![Top Langs](https://github-readme-stats-sandy-theta-45.vercel.app/api/top-langs/?username=tim-ludwig&langs_count=5&layout=donut&theme=catppuccin_mocha)]
+![Top Langs](https://github-readme-stats-sandy-theta-45.vercel.app/api/top-langs/?username=tim-ludwig&langs_count=5&layout=donut&theme=catppuccin_mocha)
 
 <!--
 **tim-ludwig/tim-ludwig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
